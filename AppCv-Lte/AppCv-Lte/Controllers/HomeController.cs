@@ -6,6 +6,7 @@ namespace AppCv_Lte.Controllers
     {
         public ActionResult Index()
         {
+            //el codigo fue modificado correctamente desde github.
             return View();
         }
 
