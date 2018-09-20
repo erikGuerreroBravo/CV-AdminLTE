@@ -17,5 +17,10 @@ namespace AppCv_Lte.Controllers
             //modificacion de erik guerrero bravo.
             return View("Index");
         }
+
+        public ActionResult FormularioBase()
+        {
+            return View();
+        }
     }
 }
