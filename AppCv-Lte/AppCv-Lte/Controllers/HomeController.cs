@@ -12,6 +12,8 @@ namespace AppCv_Lte.Controllers
 
         public ActionResult AnotherLink()
         {
+            //estamos editando los controladores desde github.
+            //modificacion de erik guerrero bravo.
             return View("Index");
         }
     }
